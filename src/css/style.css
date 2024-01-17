@@ -8767,7 +8767,7 @@ h6.media-heading {
 .main-timeline::after {
   content: "";
   position: absolute;
-  width: 6px;
+  width: 4px;
   background-color: #6D796F;
   top: 0;
   bottom: 0;
@@ -8786,12 +8786,12 @@ h6.media-heading {
 .timeline::after {
   content: "";
   position: absolute;
-  width: 25px;
-  height: 25px;
-  right: -13px;
+  width: 20px;
+  height: 20px;
+  right: -9px;
   background-color: #6D796F;
   border: 5px solid #6D796F;
-  top: 75px;
+  top: 77px;
   border-radius: 50%;
   z-index: 1;
 }
@@ -8834,5 +8834,5 @@ h6.media-heading {
 
 /* Fix the circle for containers on the right side */
 .right::after {
-  left: -12px;
+  left: -11px;
 }
