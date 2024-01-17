@@ -56,20 +56,22 @@
 
 .countdown2_style div {
   float: left;
-  max-width: 110px;
+  max-width: 85px;
   /* max-height: 110px; */
   text-align: center;
-  font-size: 1rem;
+  font-size: 0.7rem;
   padding: 0;
+  margin: 5px;
 }
+
 .countdown2_style span {
   float: left;
   border-radius: 50%;
   background-color: #8A9A5B;
-  padding: 15px;
-  font-size: 3rem;
-  height: 100px;
-  width: 100px;
+  padding: 10px;
+  font-size: 2.8rem;
+  height: 85px;
+  width: 85px;
 }
 
 @media only screen and (max-width: 600px) {
