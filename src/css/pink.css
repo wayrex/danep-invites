@@ -59,7 +59,7 @@ mark,
 }
 
 .default-bg {
-  background-color: rgb(115 125 103 );
+  background-color: #38636A;
   color: #ffffff;
 }
 
@@ -115,8 +115,8 @@ mark,
 /* Buttons
 ---------------------------------- */
 .btn-default {
-  background-color: 	#8A9A5B;
-  border-color: #ad9d80;
+  background-color:#0E324C;
+  border-color: #0E324C;
 }
 
 .btn-default:hover,
@@ -278,7 +278,7 @@ ul.pagination .page-item.active .page-link,
 /*Modals
 ---------------------------------- */
 .modal-content .modal-header {
-  background-color: rgb(115 125 103 );
+  background-color: #38636A;
 }
 
 /*Pace (Page loader)

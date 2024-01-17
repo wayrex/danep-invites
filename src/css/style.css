@@ -4592,6 +4592,7 @@ fieldset[disabled] .form-control {
 ---------------------------------- */
 .modal-content .modal-title {
   color: #F6F6F6;
+  font-weight: bold;
 }
 
 .modal-open .page-wrapper {
