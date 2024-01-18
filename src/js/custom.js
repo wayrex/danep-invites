@@ -5,5 +5,6 @@ if (twoInvitees) {
     inviteeAmount = 2;
 }
 document.querySelector("#inviteesAmount").innerText=inviteeAmount;
-
-console.log(currentUrl);
+window.onbeforeunload = function () {
+    window.scrollTo(0, 0);
+  }
