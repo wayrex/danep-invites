@@ -6,7 +6,7 @@ File Description: Pink Skin
 -------------------------------------------------
 -------------------------------------------------*/
 a {
-  color: rgb(115 125 103 );
+  color: rgb(115 125 103);
 }
 
 a:hover {
@@ -20,23 +20,23 @@ a:active {
 
 mark,
 .mark {
-  background-color: rgb(115 125 103 );
+  background-color: rgb(115 125 103);
   color: #ffffff;
 }
 
 .text-default {
-  color: rgb(115 125 103 );
+  color: rgb(115 125 103);
 }
 
 /* Tables
 ---------------------------------- */
 .table.table-colored {
-  border-bottom-color: rgb(115 125 103 );
+  border-bottom-color: rgb(115 125 103);
 }
 
-.table-colored > thead > tr > th {
-  border-color: rgb(115 125 103 );
-  background-color: rgb(115 125 103 );
+.table-colored>thead>tr>th {
+  border-color: rgb(115 125 103);
+  background-color: rgb(115 125 103);
   color: #ffffff;
 }
 
@@ -54,8 +54,8 @@ mark,
 }
 
 .header-top.colored {
-  background-color: rgb(115 125 103 );
-  border-bottom: 1px solid rgb(115 125 103 );
+  background-color: rgb(115 125 103);
+  border-bottom: 1px solid rgb(115 125 103);
 }
 
 .default-bg {
@@ -97,7 +97,7 @@ mark,
 
 .default-hovered:hover:after,
 .default-hovered:hover {
-  background-color: rgb(115 125 103 );
+  background-color: rgb(115 125 103);
 }
 
 /* 4 Pages
@@ -106,7 +106,7 @@ mark,
 /* Blog Timeline layout
 ---------------------------------- */
 .timeline-date-label:after {
-  background-color: rgb(115 125 103 );
+  background-color: rgb(115 125 103);
 }
 
 /* 5 Components
@@ -115,7 +115,7 @@ mark,
 /* Buttons
 ---------------------------------- */
 .btn-default {
-  background-color:#0E324C;
+  background-color: #0E324C;
   border-color: #0E324C;
 }
 
@@ -124,20 +124,20 @@ mark,
 .btn-default.focus,
 .btn-default:active,
 .btn-default.active,
-.show > .dropdown-toggle.btn-default {
-  background-color: #ad9d80;
-  border-color: #ad9d80;
+.show>.dropdown-toggle.btn-default {
+  background-color: #38636A;
+  border-color: #38636A;
 }
 
 .btn-default.disabled,
 .btn-default[disabled],
 fieldset[disabled] .btn-default {
-  background-color: rgb(115 125 103 );
-  border-color: #ad9d80;
+  background-color: rgb(115 125 103);
+  border-color: #38636A;
 }
 
 .btn-default-transparent {
-  border-color: rgb(115 125 103 );
+  border-color: rgb(115 125 103);
 }
 
 .btn-default-transparent:hover,
@@ -145,7 +145,7 @@ fieldset[disabled] .btn-default {
 .btn-default-transparent.focus,
 .btn-default-transparent:active,
 .btn-default-transparent.active,
-.show > .dropdown-toggle.btn-default-transparent {
+.show>.dropdown-toggle.btn-default-transparent {
   background-color: #ad9d80;
   border-color: #ad9d80;
 }
@@ -154,7 +154,7 @@ fieldset[disabled] .btn-default {
 .default-translucent-bg .btn-default,
 .default-bg .btn-default-transparent,
 .default-translucent-bg .btn-default-transparent {
-  color: rgb(115 125 103 );
+  color: rgb(115 125 103);
 }
 
 .btn-white:hover,
@@ -162,7 +162,7 @@ fieldset[disabled] .btn-default {
 .btn-white.focus,
 .btn-white:active,
 .btn-white.active,
-.show > .dropdown-toggle.btn-white {
+.show>.dropdown-toggle.btn-white {
   color: #ad9d80;
 }
 
@@ -182,8 +182,8 @@ ul.pagination .page-item .page-link:focus {
 ul.pagination .page-item.active .page-link,
 .page-item.active .page-link:hover,
 .page-item.active .page-link:focus {
-  background-color: rgb(115 125 103 );
-  border-color: rgb(115 125 103 );
+  background-color: rgb(115 125 103);
+  border-color: rgb(115 125 103);
 }
 
 /* Breadcrumb
@@ -198,54 +198,54 @@ ul.pagination .page-item.active .page-link,
 
 /* Nav pills
 ---------------------------------- */
-.nav-pills.style-2 > li .nav-link.active,
-.nav-pills.style-2 > li .nav-link.active:hover,
-.nav-pills.style-2 > li .nav-link.active:focus,
-.nav-pills.style-2 > li .nav-link:hover,
-.nav-pills.style-2 > li .nav-link:focus {
-  color: rgb(115 125 103 );
+.nav-pills.style-2>li .nav-link.active,
+.nav-pills.style-2>li .nav-link.active:hover,
+.nav-pills.style-2>li .nav-link.active:focus,
+.nav-pills.style-2>li .nav-link:hover,
+.nav-pills.style-2>li .nav-link:focus {
+  color: rgb(115 125 103);
 }
 
-.nav.flex-column > li .nav-link.active,
-.nav.flex-column > li .nav-link.active:hover,
-.nav.flex-column > li .nav-link.active:focus,
-.nav.flex-column > li .nav-link:hover,
-.nav.flex-column > li .nav-link:focus {
-  color: rgb(115 125 103 );
+.nav.flex-column>li .nav-link.active,
+.nav.flex-column>li .nav-link.active:hover,
+.nav.flex-column>li .nav-link.active:focus,
+.nav.flex-column>li .nav-link:hover,
+.nav.flex-column>li .nav-link:focus {
+  color: rgb(115 125 103);
 }
 
-.nav-pills > li .nav-link.active:after {
-  color: rgb(115 125 103 );
+.nav-pills>li .nav-link.active:after {
+  color: rgb(115 125 103);
 }
 
-.nav.flex-column:not(.list-style-icons) > li .nav-link.active:hover:after,
-.nav.flex-column:not(.list-style-icons) > li .nav-link.active:focus:after,
-.nav.flex-column:not(.list-style-icons) > li .nav-link:hover:after,
-.nav.flex-column:not(.list-style-icons) > li .nav-link:focus:after {
+.nav.flex-column:not(.list-style-icons)>li .nav-link.active:hover:after,
+.nav.flex-column:not(.list-style-icons)>li .nav-link.active:focus:after,
+.nav.flex-column:not(.list-style-icons)>li .nav-link:hover:after,
+.nav.flex-column:not(.list-style-icons)>li .nav-link:focus:after {
   color: #ad9d80;
 }
 
-.nav.flex-column.list-style-icons > li .nav-link.active > i,
-.nav.flex-column.list-style-icons > li .nav-link:hover > i,
-.nav.flex-column.list-style-icons > li .nav-link:focus > i {
+.nav.flex-column.list-style-icons>li .nav-link.active>i,
+.nav.flex-column.list-style-icons>li .nav-link:hover>i,
+.nav.flex-column.list-style-icons>li .nav-link:focus>i {
   color: #ad9d80;
 }
 
-.dark .footer-content .nav.flex-column > li > a.active:hover,
-.dark .footer-content .nav.flex-column > li > a:hover {
+.dark .footer-content .nav.flex-column>li>a.active:hover,
+.dark .footer-content .nav.flex-column>li>a:hover {
   color: #ad9d80;
 }
 
 /* Collapse
 ---------------------------------- */
 .collapse-style-2 .card-header a {
-  background-color: rgb(115 125 103 );
+  background-color: rgb(115 125 103);
 }
 
 /* Progress bars
 ---------------------------------- */
 .progress-bar-default {
-  background-color: rgb(115 125 103 );
+  background-color: rgb(115 125 103);
 }
 
 /* Forms
@@ -261,18 +261,18 @@ ul.pagination .page-item.active .page-link,
 /*Icons
 ---------------------------------- */
 .icon.default-bg {
-  background-color: rgb(115 125 103 );
+  background-color: rgb(115 125 103);
 }
 
 .icon.light-bg {
-  color: rgb(115 125 103 );
+  color: rgb(115 125 103);
 }
 
 /*Listing Items
 ---------------------------------- */
 .listing-item .overlay-container .badge {
-  border: 1px solid rgb(115 125 103 );
-  color: rgb(115 125 103 );
+  border: 1px solid rgb(115 125 103);
+  color: rgb(115 125 103);
 }
 
 /*Modals
@@ -285,43 +285,43 @@ ul.pagination .page-item.active .page-link,
 ---------------------------------- */
 /*loader 1*/
 .page-loader-1 .pace {
-  border: 1px solid rgb(115 125 103 );
+  border: 1px solid rgb(115 125 103);
 }
 
 .page-loader-1 .pace .pace-progress {
-  background: rgb(115 125 103 );
+  background: rgb(115 125 103);
 }
 
 .page-loader-2 .pace .pace-progress:before {
-  background: rgb(115 125 103 );
+  background: rgb(115 125 103);
 }
 
 .page-loader-2 .pace .pace-activity {
-  border: 5px solid rgb(115 125 103 );
+  border: 5px solid rgb(115 125 103);
 }
 
 .page-loader-2 .pace .pace-activity:after {
-  border: 5px solid rgb(115 125 103 );
+  border: 5px solid rgb(115 125 103);
 }
 
 .page-loader-2 .pace .pace-activity:before {
-  border: 5px solid rgb(115 125 103 );
+  border: 5px solid rgb(115 125 103);
 }
 
 .page-loader-3 .pace .pace-progress {
-  background: rgb(115 125 103 );
+  background: rgb(115 125 103);
 }
 
 .page-loader-4 .pace .pace-progress {
-  background: rgb(115 125 103 );
+  background: rgb(115 125 103);
 }
 
 .page-loader-5 .pace .pace-progress:after {
-  color: rgb(115 125 103 );
+  color: rgb(115 125 103);
 }
 
 .page-loader-6 .pace .pace-activity {
-  background: rgb(115 125 103 );
+  background: rgb(115 125 103);
 }
 
 /* 6 Navigations
@@ -331,32 +331,32 @@ ul.pagination .page-item.active .page-link,
 ----------------------------------------------------------------------------- */
 .header .navbar-nav li .nav-link:focus,
 .header .navbar-nav li .nav-link:hover,
-.header .navbar-nav .show > .nav-link,
+.header .navbar-nav .show>.nav-link,
 .header .navbar-nav li .nav-link.show,
-.header .navbar-nav .active.show > .nav-link,
+.header .navbar-nav .active.show>.nav-link,
 .header .navbar-nav li.show .nav-link.active {
-  color: rgb(115 125 103 );
+  color: rgb(115 125 103);
 }
 
-.header .navbar-nav .active > .nav-link,
+.header .navbar-nav .active>.nav-link,
 .header .navbar-nav li .nav-link.active {
-  color: rgb(115 125 103 );
+  color: rgb(115 125 103);
 }
 
 .header .navbar-nav li li a:focus,
 .header .navbar-nav li li a:hover,
-.header .navbar-nav li .show > a,
+.header .navbar-nav li .show>a,
 .header .navbar-nav li li a.show,
-.header .navbar-nav li .active > a,
+.header .navbar-nav li .active>a,
 .header .navbar-nav li li a.active {
   color: #ad9d80;
 }
 
-header:not(.dark) .mega-menu .menu > li > a:hover i,
-header:not(.dark) .dropdown-menu > li > a:hover i,
-header:not(.dark) .mega-menu .menu > li.active > a i,
-header:not(.dark) .dropdown-menu > li.active > a i {
-  color: rgb(115 125 103 );
+header:not(.dark) .mega-menu .menu>li>a:hover i,
+header:not(.dark) .dropdown-menu>li>a:hover i,
+header:not(.dark) .mega-menu .menu>li.active>a i,
+header:not(.dark) .dropdown-menu>li.active>a i {
+  color: rgb(115 125 103);
 }
 
 .navbar-light .navbar-toggler:hover,
@@ -366,27 +366,31 @@ header:not(.dark) .dropdown-menu > li.active > a i {
 
 /* Small devices (tablets, phones less than 767px) */
 @media (max-width: 991px) {
+
   .header .navbar-nav .active .nav-link,
   .header .navbar-nav .active .nav-link:hover,
   .header .navbar-nav .active .nav-link:focus {
     color: #ad9d80;
   }
+
   /* first level item hover and focus states */
-  .header .navbar-nav li > a:hover,
-  .header .navbar-nav li > a:focus,
-  .header .navbar-nav .active > a,
-  .header .navbar-nav .active > a:hover,
-  .header .navbar-nav .active > a:focus {
+  .header .navbar-nav li>a:hover,
+  .header .navbar-nav li>a:focus,
+  .header .navbar-nav .active>a,
+  .header .navbar-nav .active>a:hover,
+  .header .navbar-nav .active>a:focus {
     color: #ad9d80;
   }
+
   /* second level item on hover/focus */
-  .header .navbar-nav .show .dropdown-menu > li > a:hover,
-  .header .navbar-nav .show .dropdown-menu > li > a:focus {
+  .header .navbar-nav .show .dropdown-menu>li>a:hover,
+  .header .navbar-nav .show .dropdown-menu>li>a:focus {
     color: #ad9d80;
   }
+
   /* Arrow for parent menu item */
-  .header .navbar-nav .dropdown.show > .dropdown-toggle::after {
-    color: rgb(115 125 103 );
+  .header .navbar-nav .dropdown.show>.dropdown-toggle::after {
+    color: rgb(115 125 103);
   }
 }
 
@@ -409,37 +413,38 @@ header:not(.dark) .dropdown-menu > li.active > a i {
   background-color: rgba(62, 52, 55, 0.8);
 }
 
-.dark.header .dropdown-menu > li > a,
-.dark.header .navbar-nav .mega-menu .menu > li > a {
+.dark.header .dropdown-menu>li>a,
+.dark.header .navbar-nav .mega-menu .menu>li>a {
   border-bottom: 1px solid rgba(62, 52, 55, 0.8);
 }
 
-.dark.header .mega-menu .menu > li > a:hover,
-.dark.header .mega-menu .menu > li > a:focus {
+.dark.header .mega-menu .menu>li>a:hover,
+.dark.header .mega-menu .menu>li>a:focus {
   border-color: rgba(62, 52, 55, 0.8);
 }
 
-.dark.header .dropdown-menu > li > a:hover,
-.dark.header .dropdown-menu > li > a:focus,
-.dark.header .navbar-nav .show > a,
-.dark.header .navbar-nav .show > a:hover,
-.dark.header .navbar-nav .show > a:focus,
-.dark.header .dropdown-menu > .active > a,
-.dark.header .dropdown-menu > .active > a:hover,
-.dark.header .dropdown-menu > .active > a:focus,
-.dark.header .dropdown-menu .menu > .active > a,
-.dark.header .dropdown-menu .menu > .active > a:hover,
-.dark.header .dropdown-menu .menu > .active > a:focus {
+.dark.header .dropdown-menu>li>a:hover,
+.dark.header .dropdown-menu>li>a:focus,
+.dark.header .navbar-nav .show>a,
+.dark.header .navbar-nav .show>a:hover,
+.dark.header .navbar-nav .show>a:focus,
+.dark.header .dropdown-menu>.active>a,
+.dark.header .dropdown-menu>.active>a:hover,
+.dark.header .dropdown-menu>.active>a:focus,
+.dark.header .dropdown-menu .menu>.active>a,
+.dark.header .dropdown-menu .menu>.active>a:hover,
+.dark.header .dropdown-menu .menu>.active>a:focus {
   border-color: rgba(62, 52, 55, 0.8);
 }
 
 /* 6.3 Navigation style 2
 ----------------------------------------------------------------------------- */
 @media (min-width: 992px) {
+
   .header.white-bg .main-navigation--style-2 .navbar-nav li .nav-link:focus,
   .header.white-bg .main-navigation--style-2 .navbar-nav li .nav-link:hover,
   .header.white-bg .main-navigation--style-2 .navbar-nav li.show .nav-link {
-    color: rgb(115 125 103 );
+    color: rgb(115 125 103);
   }
 }
 
@@ -454,27 +459,27 @@ header:not(.dark) .dropdown-menu > li.active > a i {
 }
 
 .social-links.animated-effect-1 li a:after {
-  background-color: rgb(115 125 103 );
+  background-color: rgb(115 125 103);
 }
 
 .social-links.default li a {
-  background-color: rgb(115 125 103 );
+  background-color: rgb(115 125 103);
   border: 1px solid #ad9d80;
 }
 
-.header-top:not(.dark) .social-links .dropdown.show > button > i:before {
-  color: rgb(115 125 103 );
+.header-top:not(.dark) .social-links .dropdown.show>button>i:before {
+  color: rgb(115 125 103);
 }
 
 /*Header Dropdowns (search, cart etc)
 ---------------------------------- */
-.header-dropdown-buttons .btn-group > .btn:hover {
-  background-color: rgb(115 125 103 );
+.header-dropdown-buttons .btn-group>.btn:hover {
+  background-color: rgb(115 125 103);
   border-color: #ad9d80;
 }
 
-.header-dropdown-buttons .btn-group.show > .btn {
-  background-color: rgb(115 125 103 );
+.header-dropdown-buttons .btn-group.show>.btn {
+  background-color: rgb(115 125 103);
   border-color: #ad9d80;
 }
 
@@ -484,15 +489,15 @@ header:not(.dark) .dropdown-menu > li.active > a i {
 }
 
 .colored.header-top .dropdown-menu {
-  border: 1px solid rgb(115 125 103 );
-  background: rgb(115 125 103 );
+  border: 1px solid rgb(115 125 103);
+  background: rgb(115 125 103);
 }
 
 /* Media
 ---------------------------------- */
 .media:hover .icon {
-  color: rgb(115 125 103 );
-  border: 1px solid rgb(115 125 103 );
+  color: rgb(115 125 103);
+  border: 1px solid rgb(115 125 103);
 }
 
 /* Full Width Content
@@ -507,18 +512,18 @@ header:not(.dark) .dropdown-menu > li.active > a i {
 /* Pricing tables
 ---------------------------------- */
 .popover-title {
-  background-color: rgb(115 125 103 );
+  background-color: rgb(115 125 103);
 }
 
 /* Tags cloud block
 ---------------------------------- */
 .tag a {
-  background-color: rgb(115 125 103 );
+  background-color: rgb(115 125 103);
   border: 1px solid #ad9d80;
 }
 
 .tag a:hover {
-  color: rgb(115 125 103 );
+  color: rgb(115 125 103);
   border-color: #ad9d80;
 }
 

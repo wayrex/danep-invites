@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 /* 1 Typography
 ----------------------------------------------------------------------------- */
 /*Fonts
@@ -26,7 +27,7 @@ textarea {
 }
 
 .logo-font {
-  font-family: "Playfair", "Cormorant", serif;
+  font-family: "Playfair", serif;
 }
 
 /*Typography
@@ -210,7 +211,8 @@ a {
   transition: all 0.2s ease-in-out;
 }
 
-a:focus, a:active {
+a:focus,
+a:active {
   outline: none;
 }
 
