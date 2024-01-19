@@ -8840,3 +8840,34 @@ h6.media-heading {
 .modal-header .close {
   color: #fff;
 }
+
+.icon_stroke {
+  stroke: red !important;
+}
+
+.eucaliptus-top {
+  background-image: url(../images/eu1.png);
+  background-repeat: no-repeat;
+  background-size: 50% auto;
+}
+
+.eucaliptus-bottom {
+  background-image: url(../images/eu2.png);
+  background-repeat: no-repeat;
+  background-size: 50% auto;
+  background-position: bottom right;
+}
+
+.eucaliptus {
+  background-image: url(../images/eu1.png), url(../images/eu2.png);
+  background-repeat: no-repeat;
+  background-size: 50% auto;
+  background-position: top left, bottom right;
+}
+
+.eucaliptus-top-style2 {
+  background-image: url(../images/eu3.png);
+  background-repeat: no-repeat;
+  background-size: 50% auto;
+  background-position: top right;
+}
